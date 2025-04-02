@@ -1,4 +1,4 @@
-Hi there, I’m Yowun! 👋🚀
+**Hi there, I’m Yowun! 👋🚀
 
 🧑‍💻 About Me
 
@@ -25,3 +25,4 @@ Hey! I’m a Software Dev student in my first year, second semester 📚. I love
 ⸻
 
 💙 “Coding is like magic—turning coffee into code! ☕✨”
+**
